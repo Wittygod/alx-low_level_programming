@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 find -name '1-isdigit' -exec cp -t 0x09-static_libraries {} +
 find -name '0-strcat.c' -exec cp -t 0x09-static_libraries {} +
 find -name '0-isupper.c' -exec cp -t 0x09-static_libraries {} +
@@ -18,3 +19,7 @@ find -name '5-strstr.c' -exec cp -t 0x09-static_libraries {} +
 find -name '6-abs.c' -exec cp -t 0x09-static_libraries {} +
 find -name '9-strcpy.c' -exec cp -t 0x09-static_libraries {} +
 find -name '_putchar.c' -exec cp -t 0x09-static_libraries {} +
+=======
+#!/bin/bash
+
+>>>>>>> 7e8fa060489e52e357fbc7cde536716eb85de42c
